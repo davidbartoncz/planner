@@ -1,0 +1,16 @@
+{
+  "name": "Plánek",
+  "short_name": "Plánek",
+  "description": "Úkoly, termíny a plán dne pro práci, domov i školu.",
+  "lang": "cs",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F1EC",
+  "theme_color": "#F3F1EC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
